@@ -1,12 +1,12 @@
 # Hi, I'm Beatriz Barssoti! 👋🌸
 
 <p align="justify" style="margin-bottom: 0;">
-Me chamo Beatriz Barssoti, tenho 18 anos e sou natural de São Paulo. Atualmente estou estudando Desenvolvimento de Software Multiplataforma, pela Faculdade de Tecnologia, focada em Engenharia e Ciência de Dados, Automação e IA Aplicada a processos de negócio.</p>
+Me chamo Beatriz Barssoti, tenho 19 anos e sou natural de São Paulo. Atualmente estou estudando Desenvolvimento de Software Multiplataforma, pela Faculdade de Tecnologia, focada em Engenharia e Ciência de Dados, Automação e IA Aplicada a processos de negócio.</p>
 
 <details>
   <summary>🌐 Click here to read in English</summary>
   <p>
-    I'm 18 years old, and a Software Development student from São Paulo, Brazil, focused on Data Engineering, Automation, and Applied AI. I build intelligent systems and data solutions to optimize business workflows using tools like n8n, SQL, and LLMs.
+    I'm 19 years old, and a Software Development student from São Paulo, Brazil, focused on Data Science, Automation, and Applied AI. I build intelligent systems and data solutions to optimize business workflows using tools like n8n, SQL, and LLMs.
   </p>
 </details>
 
@@ -29,10 +29,11 @@ Me chamo Beatriz Barssoti, tenho 18 anos e sou natural de São Paulo. Atualmente
           <h3 style="margin: 0 0 12px;">🛠️ Tech Stack</h3>
            <div style="line-height: 1.6;">
             <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-            <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" />
-            <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
             <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" />
+            <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat&logo=powerautomate&logoColor=white" />
+            <img src="https://img.shields.io/badge/Data%20Science-4B8BBE?style=flat" />
             <br>
+            <img src="https://img.shields.io/badge/LLM-7B61FF?style=flat" />
             <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
             <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
             <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
